@@ -6,3 +6,4 @@ The bitmap images are encoded in a simple format:
 
 width, height, then 2 pixels per byte.
 
+![alt text](Example.jpg)
